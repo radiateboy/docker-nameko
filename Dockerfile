@@ -4,4 +4,4 @@ MAINTAINER ray <tsbc@vip.qq.com>
 
 RUN pip install nameko
 
-CMD ['/bin/bash']
+CMD ['/bin/sh']
